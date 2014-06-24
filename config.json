@@ -1,3 +1,6 @@
 ﻿{
-    "useSideNav": "true"
+    "useSideNav": "true",
+    "lineBreaks": "gfm",
+    "additionalFooterText": "All content and images &copy; by SkullKiller&nbsp;",
+    "anchorCharacter": "#"
 }
