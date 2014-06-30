@@ -1,6 +1,9 @@
 ﻿{
+    "title":"skullkiller SQL/BI Blog",
     "useSideNav": "true",
+    "useSideMenu": true,
     "lineBreaks": "gfm",
-    "additionalFooterText": "All content and images &copy; by SkullKiller&nbsp;",
+    "lineBreaks": "original",
+    "additionalFooterText": "All content and images &copy; by SkullKiller&nbsp;<br>This content is hosted in GitHub<br>",
     "anchorCharacter": "#"
 }
