@@ -36,7 +36,7 @@ Download here: DO-SSASDBPerfMaintenace.ps1
 *skullkiller*
 
 [include](includes/plagiarism.md)
-a
+
 <script>
 var idcomments_acct = '857a4a7d40b5baf6e007159d3686e3fe';
 var idcomments_post_id;
