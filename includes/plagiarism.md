@@ -1,1 +1,1 @@
-﻿*<strong>Plagiarism</strong> If you find the content of this post is a copy of someone else work, refer to this [post](posts/plagiarism.md) please. Please refer to [me](mailto:skullkiller@sapo.pt) if you want to post about this.*
+﻿*<strong>Plagiarism</strong> If you find the content of this post is a copy of someone else's work, refer to this [post](posts/plagiarism.md) please.*
