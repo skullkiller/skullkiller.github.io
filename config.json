@@ -4,6 +4,6 @@
     "useSideMenu": true,
     "lineBreaks": "gfm",
     "lineBreaks": "original",
-    "additionalFooterText": "All content and images &copy; by SkullKiller&nbsp;<br>This content is hosted in GitHub<br>",
+    "additionalFooterText": "All content and images &copy; by SkullKiller&nbsp;<br>Powered by MDWiki and GitHub Pages<br>",
     "anchorCharacter": "#"
 }
